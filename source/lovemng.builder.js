@@ -20,7 +20,7 @@ module.exports = class plugin_setting {
         this.plugin_text= TB.$.s("キャラクター毎の好感度を管理し、好感度による分岐を簡単に行えるようにします。");
         
         /*プラグイン説明用の画像ファイルを指定する。プラグインフォルダに配置してください*/
-        this.plugin_img = "no_image";
+        this.plugin_img = "lovemng.png";
         
     }
     
